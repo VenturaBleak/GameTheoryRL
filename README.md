@@ -5,7 +5,10 @@ The repository delves deep into the intricacies of the well-known problem in gam
 
 The Prisoner's Dilemma is defined by its characteristic payoff matrix: (3,3) if both players cooperate, (5,0) and (0,5) if one defects while the other cooperates, and (1,1) if both defect. Through the lens of reinforcement learning, specifically using Deep Q Networks (DQN), this repo captures the intricacies of agent interactions, illustrating how agents can be trained to either cooperate or defect based on different training regimes.
 
-By leveraging DQN, agents learn to optimize their actions through interactions with the environment. DQN employs a neural network to approximate the Q-values, which are updated using experience replay, ensuring a stable learning process.
+By leveraging DQN, agents learn to optimize their actions through interactions with the environment. DQN employs a neural network to approximate the Q-values (expected values of a certain state as the result of an action taken), which are updated using experience replay, ensuring a stable learning process.
+
+### Hand-Coded Game Visualization in Pygame
+The repository  features a hand-coded visualization of the Prisoner's Dilemma using the pygame framework. This visualization brings the game's dynamics to life, illustrating in real-time how the agents, trained using DQN, react and strategize.
 
 ![Prisoner's Dilemma](https://github.com/VenturaBleak/GameTheoryRL/blob/a66203a97bb44b1382cc66af64500fe22e0175a2/PrisonersDilemma.png)
 
