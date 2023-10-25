@@ -10,8 +10,8 @@ By leveraging DQN, agents learn to optimize their actions through interactions w
 ### Hand-Coded Game Visualization in Pygame
 The repository  features a hand-coded visualization of the Prisoner's Dilemma using the pygame framework. This visualization brings the game's dynamics to life, illustrating in real-time how the agents, trained using DQN, react and strategize.
 
-![Prisoner's Dilemma](https://github.com/VenturaBleak/GameTheoryRL/blob/a66203a97bb44b1382cc66af64500fe22e0175a2/PrisonersDilemma.png)
-<img src="https://github.com/YourGithubUsername/GameTheoryPrisonersDilemma/blob/master/screenshot_here.png" width="50%" height="50%">
+
+<img src="https://github.com/VenturaBleak/GameTheoryRL/blob/a66203a97bb44b1382cc66af64500fe22e0175a2/PrisonersDilemma.png" width="50%" height="50%">
 
 
 ### Strategies:
