@@ -73,8 +73,3 @@ These strategies provide a spectrum of behaviors, from unwavering cooperation to
     ```bash
     python evaluate.py
     ```
-
-5. **Run a tournament**:  
-    ```bash
-    python tournament.py
-    ``
